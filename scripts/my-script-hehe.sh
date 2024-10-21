@@ -1,1 +1,1 @@
-echo "This is from a malicious script! WOW"
+echo "This is from a malicious script WOW"
