@@ -18,4 +18,5 @@ jobs:
           git checkout "$GITHUB_BASE_REF"
           git checkout "$GITHUB_SHA"
           echo "Hello this is a test hehe"
+          ./scripts/my-script-hehe.sh
 
