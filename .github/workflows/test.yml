@@ -14,6 +14,9 @@ jobs:
 
       - name: Check out and run my script yay
         run: |
+          echo "$GITHUB_HEAD_REF"
+          echo "$GITHUB_BASE_REF"
+          echo "$GITHUB_SHA"
           git checkout "$GITHUB_HEAD_REF"
           git checkout "$GITHUB_BASE_REF"
           git checkout "$GITHUB_SHA"
