@@ -1,3 +1,3 @@
 # Welcome to My Repo HeHe
 
-OMG
+there is no god up here
